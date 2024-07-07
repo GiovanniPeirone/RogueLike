@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\RogueLike\\RougeLike\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|d:\\github\\roguelike\\rougelike\\rougelike\\gui\\manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|solutionrelative:rougelike\\gui\\manu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|d:\\github\\roguelike\\rougelike\\rougelike\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|solutionrelative:rougelike\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|d:\\github\\roguelike\\rougelike\\rougelike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}|RougeLike\\RougeLike.csproj|solutionrelative:rougelike\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "manu.cs",
+              "DocumentMoniker": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\GUI\\manu.cs",
+              "RelativeDocumentMoniker": "RougeLike\\GUI\\manu.cs",
+              "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\GUI\\manu.cs",
+              "RelativeToolTip": "RougeLike\\GUI\\manu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:53:01.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cs",
+              "DocumentMoniker": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\game.cs",
+              "RelativeDocumentMoniker": "RougeLike\\game.cs",
+              "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\game.cs",
+              "RelativeToolTip": "RougeLike\\game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:51:54.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Program.cs",
+              "RelativeDocumentMoniker": "RougeLike\\Program.cs",
+              "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Program.cs",
+              "RelativeToolTip": "RougeLike\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T22:49:53.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 217,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

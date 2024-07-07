@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RougeLike", "RougeLike\RougeLike.csproj", "{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2BC350D-16AB-4E4B-B8B5-0388B263A3B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {978F3E8E-7D2B-4AEF-9E32-7FC9AD4C6716}
+	EndGlobalSection
+EndGlobal
