@@ -1,0 +1,15 @@
+D:\GitHub\RogueLike\RougeLike\RougeLike\bin\Debug\net8.0\RougeLike.exe
+D:\GitHub\RogueLike\RougeLike\RougeLike\bin\Debug\net8.0\RougeLike.deps.json
+D:\GitHub\RogueLike\RougeLike\RougeLike\bin\Debug\net8.0\RougeLike.runtimeconfig.json
+D:\GitHub\RogueLike\RougeLike\RougeLike\bin\Debug\net8.0\RougeLike.dll
+D:\GitHub\RogueLike\RougeLike\RougeLike\bin\Debug\net8.0\RougeLike.pdb
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.AssemblyInfoInputs.cache
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.AssemblyInfo.cs
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.csproj.CoreCompileInputs.cache
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.sourcelink.json
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.dll
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\refint\RougeLike.dll
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.pdb
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\RougeLike.genruntimeconfig.cache
+D:\GitHub\RogueLike\RougeLike\RougeLike\obj\Debug\net8.0\ref\RougeLike.dll
