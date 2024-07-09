@@ -22,8 +22,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cs",
+              "DocumentMoniker": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Source.cs",
+              "RelativeDocumentMoniker": "RougeLike\\Source.cs",
+              "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Source.cs",
+              "RelativeToolTip": "RougeLike\\Source.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T23:12:01.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -36,22 +50,9 @@
               "RelativeDocumentMoniker": "RougeLike\\Character.cs",
               "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Character.cs",
               "RelativeToolTip": "RougeLike\\Character.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T02:01:41.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Source.cs",
-              "DocumentMoniker": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Source.cs",
-              "RelativeDocumentMoniker": "RougeLike\\Source.cs",
-              "ToolTip": "D:\\GitHub\\RogueLike\\RougeLike\\RougeLike\\Source.cs",
-              "RelativeToolTip": "RougeLike\\Source.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwBkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T23:12:01.011Z",
               "EditorCaption": ""
             },
             {

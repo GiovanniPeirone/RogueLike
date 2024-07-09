@@ -8,24 +8,18 @@ namespace RougeLike
 {
     class Character
     {
-        public int PosX;
-        public int PosY;
         public int Life;
         public string Sprite;
 
-        public Character(
-            int _PosY,
-            int _PosX, 
+        public Character( 
             int life,
             string sprite)
         {
-            PosY = _PosY;
-            PosX = _PosX;
             Life = life;
             Sprite = sprite;
         }
         
-        public void PrintCharacter()
+        public void PrintCharacter(int PosX,int PosY)
         {
             Console.SetCursorPosition(PosX,PosY);
             Console.WriteLine(Sprite);
